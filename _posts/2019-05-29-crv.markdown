@@ -4,11 +4,10 @@ title:  "On the Evaluation of Generative Robotic Simulations"
 date:   2024-10-10 17:49:25 +00:00
 image:  /images/EvalTask.png
 categories: research
-author: "Leo Keselman"
-
+author: "Feng Chen"
 authors: "Feng Chen*, Botian Xu*, Pu Hua, Peiqi Duan, Yanchao Yang, Yi Ma, Huazhe Xu"
 venue: "arXiv preprint"
 arxiv: https://arxiv.org/pdf/2410.08172
 ---
 Propose a comprehensive evaluation framework for generative robotic simulations, assessing quality, diversity, and generalization using foundation models, world models and imitation learning algorithms.
-Benchmark current stateoftheart generative simulation pipelines.
+Benchmark current SOTA generative simulation pipelines.
