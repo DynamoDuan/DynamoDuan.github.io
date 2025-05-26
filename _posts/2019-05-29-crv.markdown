@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "Direct Fitting of Gaussian Mixture Models"
-date:   2019-05-29 22:21:59 +00:00
-image: /images/crv19.png
+title:  "On the Evaluation of Generative Robotic Simulations"
+date:   2024-10-10 17:49:25 +00:00
+image:  /images/EvalTask.png
 categories: research
 author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
-venue: "Computer and Robot Vision Conference"
-arxiv: https://arxiv.org/abs/1904.05537
-slides: /pdfs/crv19-slides.pdf
-code: https://github.com/leonidk/direct_gmm
-website: https://leonidk.github.io/direct_gmm/
----
 
-A formulation for fitting Gaussian Mixture Models (GMMs) directly to geometric objects, such as a triangular mesh. This method produces more robust results and produces an improvement in 3D registration for both meshes and RGB-D frames. 
+authors: "Feng Chen*, Botian Xu*, Pu Hua, Peiqi Duan, Yanchao Yang, Yi Ma, Huazhe Xu"
+venue: "arXiv preprint"
+arxiv: https://arxiv.org/pdf/2410.08172
+---
+Propose a comprehensive evaluation framework for generative robotic simulations, assessing quality, diversity, and generalization using foundation models, world models and imitation learning algorithms.
+Benchmark current stateoftheart generative simulation pipelines.
